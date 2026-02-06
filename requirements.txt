@@ -3,3 +3,8 @@ pandas
 numpy
 sentence-transformers
 faiss-cpu
+groq
+faster-whisper
+gtts
+python-dotenv
+torch
